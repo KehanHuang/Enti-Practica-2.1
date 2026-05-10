@@ -1,0 +1,9 @@
+Entrega AA5 - ShaderLab y Post Processing
+
+Miembros del equipo
+
+Kehan Huang
+
+Trabajo realizado de forma individual.
+
+2.2 El script de control del proyecto se encuentra en Scripts/PostProcessController.cs. Los botones 1-7 controlan el encendido/apagado de siete efectos de postprocesamiento.
